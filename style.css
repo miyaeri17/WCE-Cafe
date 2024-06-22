@@ -80,14 +80,14 @@ img{
 }
 #home{
     background-image: url(1.jpg);
-    min-height: 100vh;
+    min-height: 200vh;
 }
 #home .page-title{
     text-transform: none;
 }
 /*NEWS*/
 #news{
-    background-image:url(images/2.jpg);
+    background-image:url(2.jpg);
     height:270px;
     margin-bottom:40px;
 }
