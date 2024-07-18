@@ -184,7 +184,7 @@ list-style: none;
 /*MENU*/
 #menu{
     background-image:url(https://github.com/miyaeri17/WCE-Cafe/blob/main/5.jpg?raw=true);
-    min-height: 80vh;
+    min-height: 100vh;
 }
 .menu-content{
     max-width: 560px;
